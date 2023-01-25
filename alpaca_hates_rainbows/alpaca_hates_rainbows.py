@@ -208,16 +208,3 @@ def main_playing() :
 start_playing()
 if keyenter==True :
     main_playing()
-
-            
-                
-
-
-
-
-
-
-
-        
-
-    
