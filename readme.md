@@ -1,7 +1,7 @@
 ## repo :: background_color_flipper
 hi, this is a repo about background color flipper for practicing javascript. I made it by referring [this video](https://youtu.be/3PHXvlpOkf4?t=426).
 
-- change the color by clicking the button.
+- change the background color by clicking the button.
 
 - it has two modes, simple and hex.
 
