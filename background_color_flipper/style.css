@@ -14,9 +14,10 @@ body {
     align-items: center;
     justify-content: space-between;
     background: #EEEEEE;
-    padding: 0 12rem;
+    padding: 0 10rem;
 }
 .navbar h4 {
+    display: flex;
     font-size: 1.4rem;
     font-weight: 500;
     color: #5C5980;
@@ -27,7 +28,8 @@ body {
     font-size: 1rem;
 }
 .navbar ul li {
-    padding: 0 4rem 0 5rem;
+    display: flex;
+    padding: 0 5rem;
 }
 .navbar ul li a {
     text-decoration: none;
